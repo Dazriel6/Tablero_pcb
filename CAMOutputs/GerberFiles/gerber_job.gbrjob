@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-08-29T16:24:37Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Tablero_Potencia"
+        },
+        "Owner": "Luis Alberto Uribe Garcia <uribelol2000@gmail.com>",
+        "Size": {
+            "X": 150,
+            "Y": 128.41
+        }
+    }
+}
